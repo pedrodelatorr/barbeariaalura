@@ -1,0 +1,2 @@
+# barbeariaalura
+aula pensamento computacional
